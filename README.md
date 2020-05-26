@@ -1,4 +1,4 @@
-# Example of dynamical import with problem using bable 7.9
+# Dynamical import component
 
 ## Create new project
 
